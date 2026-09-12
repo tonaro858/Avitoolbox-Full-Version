@@ -239,3 +239,6 @@ This repository serves as the official landing page for AVIToolbox. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of AVIToolbox today!**
+
+---
+**Last updated:** 2026-09-12 13:56:21 UTC
