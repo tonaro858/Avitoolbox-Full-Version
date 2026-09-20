@@ -241,4 +241,4 @@ This repository serves as the official landing page for AVIToolbox. The software
 **Get the most recent version of AVIToolbox today!**
 
 ---
-**Last updated:** 2026-09-20 10:59:04 UTC
+**Last updated:** 2026-09-20 14:39:59 UTC
